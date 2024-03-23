@@ -1,4 +1,4 @@
 
 module.exports = {
-    database: 'mongodb://127.0.0.1:27017/gym-shop'
+    database: 'mongodb+srv://sharivker90:hxtpQFCkqbtu14Wg@cluster0.nt3dyzo.mongodb.net/gymShop?retryWrites=true&w=majority&appName=Cluster0'
 };
